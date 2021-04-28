@@ -8,3 +8,5 @@ echo "Added this line 1"
 echo "Added line 2"
 echo "Added line 3"
 echo "Added line 4 for tagging"
+echo "Added line 5 for release"
+
